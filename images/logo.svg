@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140" height="40" viewBox="0 0 140 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 4C0 1.79086 1.79086 0 4 0H136C138.209 0 140 1.79086 140 4V36C140 38.2091 138.209 40 136 40H4C1.79086 40 0 38.2091 0 36V4Z" fill="url(#grad)"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="18" fill="white">MEDIAN ADS</text>
+    <defs>
+        <linearGradient id="grad" x1="0" y1="0" x2="140" y2="40" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#2B65D9"/>
+            <stop offset="1" stop-color="#1746A2"/>
+        </linearGradient>
+    </defs>
+</svg>
