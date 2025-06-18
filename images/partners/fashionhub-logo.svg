@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" width="120" height="80">
+  <defs>
+    <linearGradient id="fashionGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e11d48;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#be185d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Фон -->
+  <rect width="120" height="80" rx="12" fill="url(#fashionGradient)"/>
+  
+  <!-- Иконка вешалки -->
+  <g transform="translate(20, 20)" fill="white">
+    <path d="M40 8 C40 5, 38 3, 35 3 C32 3, 30 5, 30 8 L30 12 L15 18 L15 22 L25 22 L25 45 L45 45 L45 22 L55 22 L55 18 L40 12 Z"/>
+  </g>
+  
+  <!-- Текст FH -->
+  <text x="60" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">FH</text>
+  <text x="60" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">Fashion</text>
+</svg>

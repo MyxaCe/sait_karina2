@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" width="120" height="60">
+  <!-- Минималистичный дизайн с лучшей контрастностью -->
+  <rect x="10" y="15" width="30" height="30" rx="4" fill="#475569" opacity="0.1"/>
+  <rect x="12" y="17" width="26" height="26" rx="3" fill="none" stroke="#475569" stroke-width="2"/>
+  <circle cx="25" cy="30" r="4" fill="#475569"/>
+  
+  <!-- Текст -->
+  <text x="50" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#1e293b">Fashion</text>
+  <text x="50" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#475569">Hub</text>
+</svg>

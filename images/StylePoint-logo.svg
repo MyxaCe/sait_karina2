@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" width="120" height="60">
+  <!-- Геометрический стиль с лучшей контрастностью -->
+  <polygon points="15,18 35,18 32,35 18,35" fill="#475569"/>
+  <polygon points="17,20 33,20 30,33 20,33" fill="#64748b"/>
+  
+  <!-- Текст -->
+  <text x="45" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#1e293b">Style</text>
+  <text x="45" y="40" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#475569">Point</text>
+</svg>

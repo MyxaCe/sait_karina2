@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" width="120" height="80">
+  <defs>
+    <linearGradient id="styleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Фон -->
+  <rect width="120" height="80" rx="12" fill="url(#styleGradient)"/>
+  
+  <!-- Иконка платья -->
+  <g transform="translate(25, 15)" fill="white">
+    <path d="M15 5 C15 3, 17 1, 20 1 C23 1, 25 3, 25 5 L25 10 L30 15 L30 45 L10 45 L10 15 Z"/>
+    <circle cx="20" cy="8" r="2"/>
+  </g>
+  
+  <!-- Текст SP -->
+  <text x="60" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">SP</text>
+  <text x="60" y="55" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="8">Style</text>
+</svg>

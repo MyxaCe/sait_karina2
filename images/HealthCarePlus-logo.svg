@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" width="120" height="60">
+  <!-- Медицинский крест - минималистично -->
+  <rect x="23" y="15" width="4" height="20" rx="2" fill="#64748b"/>
+  <rect x="15" y="23" width="20" height="4" rx="2" fill="#64748b"/>
+  <circle cx="25" cy="25" r="12" fill="none" stroke="#94a3b8" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Текст -->
+  <text x="45" y="25" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#374151">HealthCare</text>
+  <text x="45" y="38" font-family="Arial, sans-serif" font-size="12" font-weight="300" fill="#6b7280">Plus</text>
+</svg>
